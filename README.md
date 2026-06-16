@@ -1,12 +1,12 @@
 # Mobile Diagnostics Toolkit
 
-Ferramenta de diagnóstico via linha de comando para dispositivos Android, desenvolvida em Python para rodar no **Termux** com integração ao **Termux:API**.
+Ferramenta simples de diagnóstico mobile via linha de comando para dispositivos Android, desenvolvida em Python para rodar no **Termux** com integração do **Termux:API**.
 
 ---
 
 ## Sobre o projeto
 
-Utilitário que coleta e exibe informações do sistema em tempo real diretamente pelo terminal — bateria, Wi-Fi, CPU, memória, armazenamento e uma pontuação geral de saúde do dispositivo.
+Ele coleta e exibe informações do sistema em tempo real diretamente pelo terminal — bateria, Wi-Fi, CPU, memória, armazenamento e uma pontuação geral de saúde do dispositivo.
 
 ---
 
