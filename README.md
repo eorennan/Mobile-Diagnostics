@@ -71,18 +71,17 @@ python main.py
 
 ## Conceitos aplicados
 
-| Conceito | Ferramenta utilizada |
+| Conceito | Aplicação no projeto |
 |----------|----------------------|
-| Desenvolvimento de aplicações de linha de comando (CLI) | Python |
-| Integração com APIs nativas do Android | Termux:API |
-| Coleta de informações do sistema | Comandos do Termux, `subprocess` e Termux:API |
-| Monitoramento em tempo real | Python (`time`) |
-| Processamento e interpretação de dados | Python |
-| Geração de relatórios automatizados | Manipulação de arquivos `.txt` |
-| Registro e consulta de histórico | Sistema de arquivos e Python |
-| Teste de conectividade e velocidade da rede | `speedtest-cli` |
-| Estruturação e modularização da aplicação | Funções e módulos em Python |
-| Interface em linha de comando | PyFiglet e recursos nativos do terminal |
+| Integração com APIs do Android | Coleta de informações do dispositivo utilizando a Termux:API |
+| Automação de tarefas | Execução automatizada de diagnósticos e geração de relatórios |
+| Coleta de informações do sistema | Obtenção de dados de bateria, CPU, memória RAM, armazenamento e rede |
+| Monitoramento em tempo real | Atualização contínua das informações do dispositivo em intervalos definidos |
+| Processamento de dados | Cálculo do Health Score e análise da temperatura da bateria |
+| Manipulação de arquivos | Geração de relatórios `.txt` e armazenamento do histórico de Health Scores |
+| Consumo de serviços externos | Teste de velocidade da conexão utilizando `speedtest-cli` |
+| Interface de linha de comando (CLI) | Interação com o usuário por meio de menus e exibição formatada no terminal |
+| Organização do código | Estruturação da aplicação em funções para facilitar manutenção e reutilização |
 
 ---
 
